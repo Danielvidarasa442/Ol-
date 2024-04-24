@@ -14,3 +14,14 @@ R:São arquivos que assumem menosespaço de armezenamento e podem ser transferid
 R:Reduzir seu tamanho, assimeconomizando espaço em seu computador.
 9-Qualo processo para descompactar uma pasta?
 R:Existe varias maneiras de descompactar uma pasta,uma delas écliquando com o botão direito do mouse sobre a pasta ou arquivodesejado, clique na opções “enviar para” e clique em “pastacompactada”.
+10-O que é o winrar? E para que ele serve?
+
+R: É um programa,para compactar e descompactar arquivos.
+
+11-Qual o processo para atualizar o sistema do Windows?
+
+R: Abra as configurações,clique em “atualização e segurança”, por padrão a janela é aberta na opção Windows Update, nessa opção é exibido se você está atualizado e quando foi a última verificão.
+
+12-O que é o Windows defender? E para o que ele serve?
+
+R: o windows contém um ativírus nativo em suas configurções, porém, ele contem apenqas funções básicas o que  o torna não tão útil em alguns controles específicos
